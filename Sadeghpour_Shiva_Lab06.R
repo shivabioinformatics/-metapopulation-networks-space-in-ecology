@@ -1,7 +1,4 @@
-# Lab06 
-
-
-# Part 1 
+ 
 
 N0 = c(10, 20, 30, 40, 50)
 growth = 1.10 
@@ -48,7 +45,7 @@ metapop_after_growth
 metapop_after_growth_dispersal <- metapop_after_growth * metapop_Network
 metapop_after_growth_dispersal
 
-# part c 
+
 
 N0 = abs(round(matrix(rnorm(10), nrow = 1), 2))
 N0
